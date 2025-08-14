@@ -4,10 +4,16 @@ This is a modern, fully responsive contact form built with Tailwind CSS and vani
 
 ---
 
-## 📸 Preview
+## 📸 Previews
 
-![Contact Form Preview](https://i.imgur.com/your-screenshot-url.png) 
-*Note: You should replace the URL above with a link to a screenshot of your project.*
+Here's a look at the different states and themes of the contact form.
+
+| Light Mode | Dark Mode | Success Message |
+| :---: | :---: | :---: |
+| *Light theme of the contact form* | *Dark theme of the contact form* | *Success message after submission* |
+| ![Light Mode Preview](https://i.imgur.com/your-light-mode-url.png) | ![Dark Mode Preview](https://i.imgur.com/your-dark-mode-url.png) | ![Success Message Preview](https://i.imgur.com/your-success-msg-url.png) |
+
+***Note:*** *To get the URLs for the images above, you can upload your screenshots to an image hosting service like [Imgur](https://imgur.com/upload) and then copy the direct link for each one.*
 
 ---
 
