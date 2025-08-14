@@ -11,7 +11,7 @@ Here's a look at the different states and themes of the contact form.
 | Light Mode | Dark Mode | Success Message |
 | :---: | :---: | :---: |
 | *Light theme of the contact form* | *Dark theme of the contact form* | *Success message after submission* |
-| ![Light Mode Preview](https://postimg.cc/4KHRKgbg) | ![Dark Mode Preview](https://postimg.cc/gXv9DHTt) | ![Success Message Preview](https://postimg.cc/BLW9HVM1) |
+| ![Light Mode Preview](https://i.postimg.cc/43BfS4Ym/Screenshot-2025-08-14-224813.png) | ![Dark Mode Preview](https://i.postimg.cc/j51sR8QT/Screenshot-2025-08-14-224823.png) | ![Success Message Preview](https://i.postimg.cc/ydx14qRn/Screenshot-2025-08-14-224841.png) |
 
 ***Note:*** *To get the URLs for the images above, you can upload your screenshots to an image hosting service like [Imgur](https://imgur.com/upload) and then copy the direct link for each one.*
 
